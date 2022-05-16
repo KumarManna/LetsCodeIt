@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "No Test Case", "No Test Cas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementsCheck", "ElementsCheck\ElementsCheck.csproj", "{A8B055AA-D8EC-4729-9840-634803F52D9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form", "Form\Form.csproj", "{4FC083FD-185D-4E54-B592-97D41A9DF9B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{A8B055AA-D8EC-4729-9840-634803F52D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8B055AA-D8EC-4729-9840-634803F52D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8B055AA-D8EC-4729-9840-634803F52D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC083FD-185D-4E54-B592-97D41A9DF9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC083FD-185D-4E54-B592-97D41A9DF9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC083FD-185D-4E54-B592-97D41A9DF9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC083FD-185D-4E54-B592-97D41A9DF9B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A8B055AA-D8EC-4729-9840-634803F52D9F} = {128EFFEF-4520-4FE2-A4F7-5D9DF5BD515F}
+		{4FC083FD-185D-4E54-B592-97D41A9DF9B8} = {128EFFEF-4520-4FE2-A4F7-5D9DF5BD515F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {361EF654-AE33-49A5-A3F7-B76331922BA3}
